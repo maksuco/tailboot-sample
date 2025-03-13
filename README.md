@@ -5,3 +5,6 @@ https://github.com/maksuco/tailboot-sample/blob/main/tailboot.css
 
 
 WIP by Michael of https://maksuco.com
+
+## Stuff that needs atention
+- [ ] .code-simple  
